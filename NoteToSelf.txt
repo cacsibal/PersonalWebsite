@@ -1,0 +1,20 @@
+aceternity components to use:
+    carousel
+    link preview
+    lamp effect
+    sparkles
+    text hover effect
+    tracing beam
+    bento grid
+
+when's it better to use
+
+const Component = () -> {}
+
+versus
+
+function Component() {
+
+}
+
+export default Component;
